@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615419016 source:d:\facultate\anul 1\semestrul 2\sd\proiect sd\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<algorithm>
+	<vector>
+	<queue>
+	<random>
+
